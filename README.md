@@ -3,12 +3,6 @@
 </h1>
 
 I started to code 15 years ago and I'm still eager to learn new tech and improve my skills.  I feel comfortable accepting responsibilities and coordinating teams. Due to my studies as Designer and Dev, and my long experience working as freelancer, I can ideate, design, develop and deploy solutions from scratch. I’ve worked as Full-stack developer most of my carreer but I decided to specialize in Frontend and I've been Full-time Front-end for 3yrs. 
-<div>
-  
-![David's Stats](https://github-readme-stats.vercel.app/api?username=davidrecheni&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=contribs&theme=github_dark)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidrecheni&theme=github_dark&hide_border=true&layout=compact)
-</div>
 
 <h2> Skills </h2>
 
