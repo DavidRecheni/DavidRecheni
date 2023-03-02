@@ -25,6 +25,7 @@ I started to code 15 years ago and I'm still eager to learn new tech and improve
 <div>
   <h3> Frontend </h3>
   <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=blue&labelColor=282828">
+  <img src="https://img.shields.io/badge/-NextJs-blue?style=for-the-badge&logo=next.js&logoColor=blue&labelColor=282828">
   <img src="https://img.shields.io/badge/-React%20Query-blue?style=for-the-badge&logo=react%20query&logoColor=blue&labelColor=282828">
   <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=282828">
   <img src="https://img.shields.io/badge/-TailwindCSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=blue&labelColor=282828">
@@ -32,6 +33,7 @@ I started to code 15 years ago and I'm still eager to learn new tech and improve
   <img src="https://img.shields.io/badge/-Styled%20components-white?style=for-the-badge&logo=styled%20components&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-Three.js-white?style=for-the-badge&logo=three.js&logoColor=white&labelColor=282828">
 </div>
+   
   
 <div>
   <h3> Backend </h3>
@@ -40,6 +42,9 @@ I started to code 15 years ago and I'm still eager to learn new tech and improve
   <img src="https://img.shields.io/badge/-Rest%20APIs-white?style=for-the-badge&logo=rest&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-Node.js-white?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Nest.js-white?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=282828">
+  <img src="https://img.shields.io/badge/-tRPCs-white?style=for-the-badge&logo=trpc&logoColor=white&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Prisma-white?style=for-the-badge&logo=prisma&logoColor=white&labelColor=282828">
 </div>
 
 
