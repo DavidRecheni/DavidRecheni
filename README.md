@@ -2,8 +2,6 @@
   <b>David Recheni</b>
 </h1>
 
-I started to code 15 years ago and I'm still eager to learn new tech and improve my skills.  I feel comfortable accepting responsibilities and coordinating teams. Due to my studies as Designer and Dev, and my long experience working as freelancer, I can ideate, design, develop and deploy solutions from scratch. I’ve worked as Full-stack developer most of my carreer but I decided to specialize in Frontend and I've been Full-time Front-end for 3yrs. 
-
 <h2> Skills </h2>
 
 <div>
